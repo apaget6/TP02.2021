@@ -1,0 +1,86 @@
+Commande git log :
+
+commit d97c98a9d2d8959eb6c138f5ac1c4f5f0b802761 (HEAD -> main)
+Author: apaget6 <77016546+apaget6@users.noreply.github.com>
+Date:   Mon Jan 11 18:32:59 2021 +0100
+
+    Creation doc08
+
+    commit 3be2e71648b74ad9fae633a369a2de89950d3578
+    Author: apaget6 <77016546+apaget6@users.noreply.github.com>
+    Date:   Mon Jan 11 18:31:24 2021 +0100
+
+        Delete doc08
+
+	commit fe5229caf82063f96279eae58b8710b310eafe5e
+	Author: apaget6 <77016546+apaget6@users.noreply.github.com>
+	Date:   Mon Jan 11 18:29:19 2021 +0100
+
+	    Creation doc08
+
+	    commit 68387191bf944a6ce7a2ca74e322cc5be8b49bf4 (origin/main)
+	    Author: Alice Paget <alicepaget.25@gmail.com>
+	    Date:   Mon Jan 11 18:24:49 2021 +0100
+
+	        Ajout doc07
+
+		commit 9f2286d99ee6181adc004eb242fc5e78364da012
+		Merge: e1ff975 411b291
+		Author: Alice Paget <alicepaget.25@gmail.com>
+		Date:   Mon Jan 11 18:06:06 2021 +0100
+
+		    Merge branch 'travail'
+
+		    commit e1ff97516576ec3f5a9cc406f75a6e97f436b505
+		    Author: Alice Paget <alicepaget.25@gmail.com>
+		    Date:   Mon Jan 11 18:04:38 2021 +0100
+
+		        Modif doc05 et doc06
+
+			commit bb5021f94c58b87c03ebfc1348a6ef7d9b774da4
+			Author: Alice Paget <alicepaget.25@gmail.com>
+			Date:   Mon Jan 11 17:58:11 2021 +0100
+
+			    Creation doc05
+
+			    commit 411b291c979a26f46180a5a493dfe9c2cebb423a (travail)
+			    Author: Alice Paget <alicepaget.25@gmail.com>
+			    Date:   Mon Jan 11 17:57:07 2021 +0100
+
+			        Modif doc04
+
+				commit c2883cc500b6a22a4bc1e30e9c89c3853b690f2e
+				Author: Alice Paget <alicepaget.25@gmail.com>
+				Date:   Mon Jan 11 17:55:09 2021 +0100
+
+				    Creation doc04
+
+				    commit 267090af99d463989474d54957f71e86db62e1a0
+				    Author: Alice Paget <alicepaget.25@gmail.com>
+				    Date:   Mon Jan 11 17:53:30 2021 +0100
+
+				        Modif doc03
+
+					commit 6d21e13b8fc1bd8dd1258df34cf5277ee4e37536
+					Author: Alice Paget <alicepaget.25@gmail.com>
+					Date:   Mon Jan 11 17:51:01 2021 +0100
+
+					    Creation doc03
+
+					    commit 35ebd0b047053eb56a188099ec7013410002c570
+					    Author: Alice Paget <alicepaget.25@gmail.com>
+					    Date:   Mon Jan 11 17:49:40 2021 +0100
+
+					        Ajout doc02
+
+						commit 6481e5d500a0e1e204a5e0e7fcc4bc8901802836
+						Author: Alice Paget <alicepaget.25@gmail.com>
+						Date:   Mon Jan 11 17:47:33 2021 +0100
+
+						    Modif doc01
+
+						    commit 493624c694e76835de3f3f4c60f1d61e87430d7d
+						    Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+						    Date:   Mon Jan 11 17:14:17 2021 +0100
+
+						        Add files via upload
