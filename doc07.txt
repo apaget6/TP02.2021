@@ -1,0 +1,55 @@
+Doc 4 :
+
+commit c2883cc500b6a22a4bc1e30e9c89c3853b690f2e (HEAD -> travail)
+Author: Alice Paget <alicepaget.25@gmail.com>
+Date:   Mon Jan 11 17:55:09 2021 +0100
+
+    Creation doc04
+
+commit 267090af99d463989474d54957f71e86db62e1a0
+Author: Alice Paget <alicepaget.25@gmail.com>
+Date:   Mon Jan 11 17:53:30 2021 +0100
+
+	Modif doc03
+
+commit 6d21e13b8fc1bd8dd1258df34cf5277ee4e37536
+Author: Alice Paget <alicepaget.25@gmail.com>
+Date:   Mon Jan 11 17:51:01 2021 +0100
+
+     Creation doc03
+
+commit 35ebd0b047053eb56a188099ec7013410002c570
+Author: Alice Paget <alicepaget.25@gmail.com>
+Date:   Mon Jan 11 17:49:40 2021 +0100
+
+	Ajout doc02
+
+commit 6481e5d500a0e1e204a5e0e7fcc4bc8901802836
+Author: Alice Paget <alicepaget.25@gmail.com>
+Date:   Mon Jan 11 17:47:33 2021 +0100
+
+        Modif doc01
+
+commit 493624c694e76835de3f3f4c60f1d61e87430d7d (origin/main, origin/HEAD, main)
+Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+Date:   Mon Jan 11 17:14:17 2021 +0100
+
+        Add files via upload
+
+Doc 6 :
+
+commit bb5021f94c58b87c03ebfc1348a6ef7d9b774da4 (HEAD -> main)
+Author: Alice Paget <alicepaget.25@gmail.com>
+Date:   Mon Jan 11 17:58:11 2021 +0100
+
+    Creation doc05
+
+commit 493624c694e76835de3f3f4c60f1d61e87430d7d (origin/main, origin/HEAD)
+Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+Date:   Mon Jan 11 17:14:17 2021 +0100
+
+   Add files via upload
+
+
+Différence : Tous les commit sauf "Add files via upload"
+
